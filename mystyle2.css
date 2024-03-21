@@ -1,0 +1,63 @@
+#imgdata{
+    width: 1000px;
+    margin-left: 0px;
+}
+
+.jumbotron {
+    padding: 0rem 7rem;
+    display: flex;
+    background-color: skyblue;
+    color:white;
+}
+
+.jumbotron .lead{
+    text-decoration: double;
+    text-shadow: orange;
+}
+
+
+
+.carousel-caption p{
+    font-synthesis-small-caps: 30px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer{
+    margin-top: 200px;
+    height: 350px;
+    background-color:skyblue;
+}
+
+.navbar{
+     background-color: skyblue;
+    
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.reg{
+    color: white;
+    background-color: blue;
+
+}
+
+b{ 
+    color: black;
+ }
+
+ p{
+    color: black;
+ }
+
+ h3{
+    color: black;
+ }
